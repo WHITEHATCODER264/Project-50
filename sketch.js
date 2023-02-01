@@ -73,6 +73,6 @@ else if(keyWentUp("space")){
 drawSprites();
 
 }
-createZombies(){
+function createZombies(){                  
   zombies=createSprite(displayWidth+1000.)
 }
